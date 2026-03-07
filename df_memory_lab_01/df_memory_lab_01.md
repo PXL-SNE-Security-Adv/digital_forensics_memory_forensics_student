@@ -2,7 +2,7 @@
 
 [Memory Dump Files](https://hogeschoolpxl-my.sharepoint.com/:u:/g/personal/20004162_pxl_be/EbQ5TIOcEgZEiwYkWWBXH5wBpwKI26_ECir82PF-nElDBg?e=glbbmd)
 
-[PXL Memory Forensics Intro 25](https://tryhackme.com/room/memoryforensicsll01)
+<!-- [PXL Memory Forensics Intro 25](https://tryhackme.com/room/memoryforensicsll01) -->
 
 ## Case 1 - Trojan Adobe
 
